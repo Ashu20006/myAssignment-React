@@ -2,7 +2,7 @@
   "name": "my-portfolio",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://Ashu20006.github.io/MyAssignment",
+"homepage": "https://Ashu20006.github.io/myAssignment-React",
   "dependencies": {
     "framer-motion": "^12.12.2",
     "react": "^18.3.1",
